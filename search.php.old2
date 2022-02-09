@@ -1,0 +1,47 @@
+<?php
+/**************************************
+/	 Code by: Neeraj Krishna Maurya   /
+/       Date: 24/05/2013              /
+/    whole code updated               /
+/*************************************/
+//include('includes/application.php');
+
+	   
+if($_GET["action"]=='header1'){
+
+$search_string = urlencode($_REQUEST['query']);
+// Check Length More Than One Character
+if (strlen($search_string) > 1) {
+
+//$url="http://ws.epostcode.com/uk/postcodeservices09.asmx/SearchPremise_ByWordMatchOnAll?sSearch=$search_string&AccountName=AJRGLOBA01&LicenceID=0c0b57dc-a0fe-4ce8-b348-0e31e6b8d51a&MachineID=";
+$url="http://ws.epostcode.com/uk/postcodeservices09.asmx/LightSearchPremise_BySearchExpression?sField=Postcode&sValue=$search_string&sAccountName=FAKEFAKE01&sGUID=00c5734a-deeb-482d-bd0b-b5fb1eefd6f3&sLicenseID=";
+$ch = curl_init();
+curl_setopt_array($ch, array(
+CURLOPT_URL => $url,
+CURLOPT_RETURNTRANSFER => true,
+CURLOPT_SSL_VERIFYPEER => false,
+CURLOPT_VERBOSE => true
+));
+$result = curl_exec($ch);
+$json=simplexml_load_string($result);
+$json=json_decode(json_encode($json),1);
+//print_r($json);
+	//if($json['List']['ListAddressPremise']) 
+if($json['IsError']=='false')
+	   {
+	   foreach($json['List']['ListAddressPremise'] as $row)
+		   {
+		?>
+			
+	<li class="result" onclick="document.getElementById('searching1').value='<?php echo $row['List_Address']?>';document.getElementById('searchid1').value='<?php echo $row['Unique_Delivery_Point']?>';document.getElementById('off1').style.display='none';"><a  href="javaScript:void(0)"  ><?php echo $row['List_Address']?></a></li>
+      <?php 
+		   }
+	    }
+	
+	else
+	   {
+ 		 echo '<span>No Results</span>';
+       }
+    }
+}	   
+?>

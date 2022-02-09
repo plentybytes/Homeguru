@@ -1,0 +1,47 @@
+.login_form {width:600px; height:250px; background:url(../images/login_bg.png) no-repeat center top; margin:20px 0 0 145px; float:left; padding:0px 0 0 0px;}
+.form {width:600px; float:left; clear:both;}
+fieldset {border:none; clear:both;}
+label{font-size:11px; font-weight:bold; color:#666;}
+label a{font-size:11px; font-weight:bold; color:#666;}
+dl{clear:both; width:600px;}
+dl.submit{clear:both; width:500px; text-align:center; padding:0 0 0 90px;}
+
+dt{float:left; text-align:right; width:150px; line-height:36px; padding:0 3px 3px 0;}
+dd{float:left; width:420px; margin:0 0 10px 0;}
+
+label.check_label{padding:0 0 0 10px; line-height:32px;}
+.error_container{clear:both;}
+.configerror_container{clear:both;}
+label.error{margin-left:190px; color:#FF0000;	line-height:20px;	display:block;}
+.configerror_container label.error{margin-left:0px; }
+/*Safari*/
+select, input, textarea, button {outline:none; resize:none;}
+
+form select{
+	margin-top:5px;
+	padding:4px;
+	border:#B4B3B4 1px solid;
+	width:200px;
+}
+form input[type=text], input[type=password], input[type=file]{
+	margin-top:5px;
+	border:#B4B3B4 1px solid;
+	padding:5px 5px;
+}
+form input[type=radio]{
+	margin-top:12px;
+}
+form input.large{
+	width:400px;
+}
+form input.medium{
+	width:250px;
+}
+form input.small{
+	width:100px;
+}
+form textarea{
+	border:solid 1px #B4B3B4;
+	padding:5px;
+	width:400px;
+}

@@ -1,0 +1,56 @@
+
+body, html {
+	height:100%;
+	width: 100%;
+}
+#map {
+	float: left;
+	
+	width: 64%;
+	height: 70%;
+}
+#desc {
+	float: left;
+	margin: 0 25px 10px 20px;
+	width: 10em;
+}
+#markers {
+	position:absolute;
+	top:205px;
+	/*left:71%;*/
+	/*width:200px;*/
+	height:110px;
+}
+.drag {
+	position: absolute;
+	width: 32px;
+	height: 32px;
+}
+ @media screen and (max-width: 890px) {
+ #map {
+ width: 93%;
+ height: 50%;
+}
+ #desc {
+ margin: 100px 14px 0;
+ width: 93%;
+}
+ .include >b {
+ float: right;
+ margin-top: 17px;
+}
+ #markers {
+ /* center horizontal and do not overlap the map */
+  position: absolute;
+ top: 50%;
+ left: 50%;
+ width: 10em;
+ height: 6em;
+ margin-top: 5em;
+ margin-left:-5em;
+}
+ #markers > p {
+ margin-top: 0;
+ font-size: 80%;
+}
+

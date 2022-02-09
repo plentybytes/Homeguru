@@ -1,0 +1,22 @@
+<link href="includes/css/elements.css" rel="stylesheet"><script src="includes/js/my_js.js"></script><!-- Body Starts Here -->
+<div id="body" style="overflow:hidden;">
+<div id="abc" style="z-index: 10;">
+<!-- Popup Div Starts Here -->
+<div id="popupContact">
+<!-- Contact Us Form -->
+<form action="includes/mail.php" id="form" method="post" name="form" class="formpopup">
+<img id="close" src="includes/images/3.png" onclick ="div_hide()">
+<h2 class="h2">Report a problem</h2>
+<hr>
+<input id="name" name="name" placeholder="Name" type="text">
+<input id="email" name="email" placeholder="Email" type="text">
+<textarea id="msg" name="message" placeholder="Message"></textarea>
+<a href="javascript:%20check_empty()" id="submit">Send</a>
+</form>
+</div>
+<!-- Popup Div Ends Here -->
+</div>
+<!-- Display Popup Button -->
+
+<button id="popup" onclick="div_show()">Report a problem</button>
+</div>

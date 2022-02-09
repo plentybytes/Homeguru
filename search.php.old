@@ -1,0 +1,37 @@
+<?php
+/**************************************
+/	 Code by: Neeraj Krishna Maurya   /
+/       Date: 24/05/2013              /
+/    whole code updated               /
+/*************************************/
+include('includes/application.php');
+
+	   
+if($_GET["action"]=='header1'){
+
+$search_string = mysql_real_escape_string($_REQUEST['query']);
+// Check Length More Than One Character
+if (strlen($search_string) > 0) {
+	// Build Query
+	$query = 'SELECT * FROM uk_town  WHERE  town LIKE "%'.$search_string.'%" limit 0, 12';
+
+	// Do Search
+	$result =  dbQuery($query);
+	if(dbNumRows($result)!==0) 
+	   {
+	    while($row = dbFetchArray($result))
+		   {
+		?>
+			
+	<li class="result" onclick="document.getElementById('searching1').value='<?php echo $row['town']?> [<?php echo $row['postcode']?>]';document.getElementById('searchid1').value='<?php echo $row['town_id']?>';document.getElementById('off1').style.display='none';"><a  href="javaScript:void(0)"  ><?php echo $row['town']?> [<?php echo $row['postcode']?>]</a></li>
+      <?php 
+		   }
+	    }
+	
+	else
+	   {
+ 		 echo '<span>No Results</span>';
+       }
+    }
+}	   
+?>

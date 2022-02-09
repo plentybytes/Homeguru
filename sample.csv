@@ -1,0 +1,501 @@
+id,place_name,county,country,grid_reference,easting,northing,latitude,longitude,postcode_area,type
+1,Aaron's Hill,Surrey,England,SU9543,495500,143500,51.18276,-0.63503,GU7 2,Other
+2,Abbas Combe,Somerset,England,ST7022,370500,122500,51.00113,-2.42178,BA8 0,Other
+3,Abberley,Worcestershire,England,SO7467,374500,267500,52.30502,-2.37541,WR6 6,Other
+4,Abberton,Essex,England,TM0019,600500,219500,51.83810,0.90891,CO5 7,Other
+5,Abberton,Worcestershire,England,SO9953,399500,253500,52.17975,-2.00873,WR10 2,Other
+6,Abbess End,Essex,England,TL5711,557500,211500,51.78000,0.28172,CM5 0,Other
+7,Abbess Roding,Essex,England,TL5711,557500,211500,51.78000,0.28172,CM5 0,Other
+8,Abbey,Devon,England,ST1410,314500,110500,50.88764,-3.21690,EX15 3,Other
+9,Abbeycwmhir,Powys,Wales,SO0571,305500,271500,52.33342,-3.38828,LD1 6,Other
+11,Abbeydale,South Yorkshire,England,SK3282,432500,382500,53.33841,-1.51337,S7 2,Other
+10,Abbeydale,Gloucestershire,England,SO8616,386500,216500,51.84693,-2.19738,GL4 5,Other
+12,Abbeydale Park,South Yorkshire,England,SK3180,431500,380500,53.32049,-1.52859,S17 3,Other
+13,Abbey Dore,Herefordshire,England,SO3830,338500,230500,51.96955,-2.89663,HR2 0,Other
+14,Abbey Field,Essex,England,TL9924,599500,224500,51.88336,0.89730,CO2 7,Other
+15,Abbey Gate,Kent,England,TQ7558,575500,158500,51.29857,0.51599,ME14 3,Other
+16,Abbey Gate,Devon,England,SY2997,329500,97500,50.77278,-3.00118,EX13 5,Other
+17,Abbey Green,Shropshire,England,SJ5033,350500,333500,52.89665,-2.73726,SY13 2,Other
+18,Abbey Green,Staffordshire,England,SJ9757,397500,357500,53.11468,-2.03880,ST13 8,Other
+19,Abbey Hey,Greater Manchester,England,SJ8996,389500,396500,53.46514,-2.15963,M18 8,Other
+20,Abbeyhill,City of Edinburgh,Scotland,NT2774,327500,674500,55.95803,-3.16277,EH7 5,Other
+21,Abbey Hulton,Staffordshire,England,SJ9148,391500,348500,53.03371,-2.12820,ST2 8,Other
+22,Abbey Mead,Surrey,England,TQ0467,504500,167500,51.39692,-0.49929,KT16 8,Other
+23,Abbey St Bathans,Scottish Borders,Scotland,NT7662,376500,662500,55.85512,-2.37696,TD11 3,Other
+24,Abbeystead,Lancashire,England,SD5654,356500,454500,53.98471,-2.66485,LA2 9,Other
+25,Abbeytown,Cumbria,England,NY1750,317500,550500,54.84249,-3.28619,CA7 4,Other
+26,Abbey Village,Lancashire,England,SD6422,364500,422500,53.69772,-2.53915,PR6 8,Other
+27,Abbey Wood,Greenwich - Greater London,England,TQ4678,546550,178550,51.48692,0.10933,SE2 0,Other
+28,Abbey Yard,Dumfries and Galloway,Scotland,NX7364,273500,564500,54.95903,-3.97713,DG7 2,Other
+29,Abbots Bickington,Devon,England,SS3813,238500,113500,50.89833,-4.29798,EX22 7,Other
+30,Abbots Bromley,Staffordshire,England,SK0824,408500,324500,52.81797,-1.87532,WS15 3,Other
+31,Abbotsbury,Dorset,England,SY5785,357500,85500,50.66761,-2.60274,DT3 4,Other
+32,Abbotsford,West Sussex,England,TQ3020,530500,120500,50.96914,-0.14281,RH15 8,Other
+33,Abbotsham,Devon,England,SS4226,242500,126500,51.01625,-4.24677,EX39 5,Other
+34,Abbotskerswell,Devon,England,SX8568,285500,68500,50.50507,-3.61599,TQ12 5,Other
+35,Abbots Langley,Hertfordshire,England,TL0901,509500,201500,51.70157,-0.41688,WD5 0,Other
+36,Abbotsleigh,Devon,England,SX8048,280500,48500,50.32428,-3.68010,TQ9 7,Other
+37,Abbots Leigh,Somerset,England,ST5473,354500,173500,51.45864,-2.65628,BS8 3,Other
+38,Abbotsley,Cambridgeshire,England,TL2256,522500,256500,52.19314,-0.20928,PE19 6,Other
+39,Abbot's Meads,Cheshire,England,SJ3967,339500,367500,53.20112,-2.90716,CH1 5,Other
+40,Abbots Morton,Worcestershire,England,SP0255,402500,255500,52.19773,-1.96484,WR7 4,Other
+41,Abbots Ripton,Cambridgeshire,England,TL2377,523500,277500,52.38162,-0.18697,PE28 2,Other
+42,Abbot's Salford,Warwickshire,England,SP0650,406500,250500,52.15274,-1.90641,WR11 8,Other
+43,Abbotstone,Hampshire,England,SU5634,456500,134500,51.10702,-1.19435,SO24 9,Other
+44,Abbotswood,Surrey,England,TQ0051,500500,151500,51.25382,-0.56128,GU1 1,Other
+45,Abbots Worthy,Hampshire,England,SU4932,449500,132500,51.08968,-1.29460,SO23 7,Other
+46,Abbotts Ann,Hampshire,England,SU3243,432500,143500,51.18981,-1.53633,SP11 7,Other
+47,Abcott,Shropshire,England,SO3978,339500,278500,52.40115,-2.89065,SY7 0,Other
+48,Abdon,Shropshire,England,SO5786,357500,286500,52.47477,-2.62713,SY7 9,Other
+49,Abdy,South Yorkshire,England,SK4398,443500,398500,53.48143,-1.34598,S62 7,Other
+50,Aberaeron,Ceredigion,Wales,SN4562,245500,262500,52.23895,-4.26409,SA46 0,Town
+51,Aberaman,Rhondda Cynon Taf,Wales,SO0101,301500,201500,51.70357,-3.42680,CF44 6,Other
+52,Aberangell,Gwynedd,Wales,SH8410,284500,310500,52.67985,-3.70989,SY20 9,Other
+53,Aber Arad,Carmarthenshire,Wales,SN3140,231500,240500,52.03723,-4.45802,SA38 9,Other
+54,Aberarder,Highland,Scotland,NN4787,247500,787500,56.95353,-4.50913,PH20 1,Other
+55,Aberargie,Perth and Kinross,Scotland,NO1615,316500,715500,56.32450,-3.35177,PH2 9,Other
+56,Aberarth,Ceredigion,Wales,SN4763,247500,263500,52.24849,-4.23528,SA46 0,Other
+57,Aberavon,Neath Port Talbot,Wales,SS7590,275500,190500,51.59954,-3.79895,SA12 6,Other
+58,Aber-banc,Ceredigion,Wales,SN3541,235500,241500,52.04741,-4.40024,SA44 5,Other
+59,Aberbargoed/Aberbargod,Caerphilly,Wales,SO1500,315500,200500,51.69686,-3.22402,CF81 9,Other
+60,Aberbechan,Powys,Wales,SO1393,313500,293500,52.53247,-3.27661,SY16 3,Other
+61,Aberbeeg,Blaenau Gwent,Wales,SO2102,321500,202500,51.71571,-3.13767,NP13 2,Other
+62,Aberbran,Powys,Wales,SN9829,298500,229500,51.95469,-3.47842,LD3 9,Other
+63,Abercanaid,Merthyr Tydfil,Wales,SO0503,305500,203500,51.72223,-3.36948,CF48 1,Other
+64,Abercarn,Caerphilly,Wales,ST2194,321500,194500,51.64380,-3.13587,NP11 5,Town
+65,Abercastle,Pembrokeshire,Wales,SM8533,185500,233500,51.95850,-5.12332,SA62 5,Other
+66,Abercegir,Powys,Wales,SH8001,280500,301500,52.59811,-3.76576,SY20 8,Other
+67,Aberchalder,Highland,Scotland,NH3403,234500,803500,57.09263,-4.73314,PH35 4,Other
+68,Aberchirder,Aberdeenshire,Scotland,NJ6252,362500,852500,57.56102,-2.62841,AB54 7,Town
+69,Abercorn,West Lothian,Scotland,NT0878,308500,678500,55.99071,-3.46835,EH30 9,Other
+70,Abercraf,Powys,Wales,SN8112,281500,212500,51.79855,-3.71984,SA9 1,Other
+71,Abercregan,Neath Port Talbot,Wales,SS8596,285500,196500,51.65559,-3.65660,SA13 3,Other
+72,Abercrombie,Fife,Scotland,NO5102,351500,702500,56.21260,-2.78352,KY10 2,Other
+73,Abercwmboi,Rhondda Cynon Taf,Wales,ST0299,302500,199500,51.68576,-3.41177,CF44 6,Other
+74,Abercych,Pembrokeshire,Wales,SN2440,224500,240500,52.03506,-4.55997,SA37 0,Other
+75,Abercynon,Rhondda Cynon Taf,Wales,ST0895,308500,195500,51.65082,-3.32396,CF45 4,Town
+76,Aber-Cywarch,Gwynedd,Wales,SH8615,286500,315500,52.72520,-3.68205,SY20 9,Other
+77,Aberdalgie,Perth and Kinross,Scotland,NO0720,307500,720500,56.36773,-3.49900,PH2 0,Other
+78,Aberdare/Aberdar,Rhondda Cynon Taf,Wales,SO0002,300500,202500,51.71238,-3.44155,CF44 7,Town
+79,Aberdaron,Gwynedd,Wales,SH1726,217500,326500,52.80509,-4.70886,LL53 8,Other
+80,Aberdeen,Aberdeen City,Scotland,NJ9206,392500,806500,57.14932,-2.12559,AB15 5,City
+81,Aberdesach,Gwynedd,Wales,SH4251,242500,351500,53.03752,-4.35048,LL54 5,Other
+82,Aberdour,Fife,Scotland,NT1985,319500,685500,56.05556,-3.29417,KY3 0,Other
+83,Aberdulais,Neath Port Talbot,Wales,SS7799,277500,199500,51.68086,-3.77324,SA11 3,Other
+84,Aberdyfi,Gwynedd,Wales,SN6196,261500,296500,52.54868,-4.04401,LL35 0,Other
+85,Abereiddy,Pembrokeshire,Wales,SM7931,179500,231500,51.93820,-5.20922,SA62 6,Other
+86,Abererch,Gwynedd,Wales,SH3936,239500,336500,52.90191,-4.38774,LL53 6,Other
+87,Aberfan,Merthyr Tydfil,Wales,SO0700,307500,200500,51.69560,-3.33973,CF48 4,Other
+88,Aberfeldy,Perth and Kinross,Scotland,NN8549,285500,749500,56.62331,-3.86771,PH15 2,Town
+89,Aberffraw,Isle of Anglesey,Wales,SH3568,235500,368500,53.18808,-4.46350,LL63 5,Other
+90,Aberffrwd,Ceredigion,Wales,SN6878,268500,278500,52.38869,-3.93374,SY23 3,Other
+91,Aberffrwd,Monmouthshire,Wales,SO3509,335500,209500,51.78043,-2.93636,NP7 9,Other
+92,Aberford,West Yorkshire,England,SE4337,443500,437500,53.83195,-1.34054,LS25 3,Other
+93,Aberfoyle,Stirling,Scotland,NN5200,252500,700500,56.17425,-4.37748,FK8 3,Other
+94,Abergarw,Bridgend,Wales,SS9184,291500,184500,51.54893,-3.56618,CF32 9,Other
+95,Abergarwed,Neath Port Talbot,Wales,SN8102,281500,202500,51.70868,-3.71643,SA11 4,Other
+96,Abergavenny/Y Fenni,Monmouthshire,Wales,SO2914,329500,214500,51.82465,-3.02433,NP7 5,Town
+97,Abergele,Conwy,Wales,SH9477,294500,377500,53.28394,-3.58391,LL22 7,Town
+98,Aber-Giâr,Carmarthenshire,Wales,SN5041,250500,241500,52.05167,-4.18168,SA40 9,Other
+99,Abergorlech,Carmarthenshire,Wales,SN5833,258500,233500,51.98189,-4.06179,SA32 7,Other
+100,Abergwesyn,Powys,Wales,SN8552,285500,252500,52.15886,-3.67522,LD5 4,Other
+101,Abergwili,Carmarthenshire,Wales,SN4321,243500,221500,51.87006,-4.27457,SA31 2,Other
+102,Abergwynfi,Neath Port Talbot,Wales,SS8996,289500,196500,51.65639,-3.59880,SA13 3,Other
+103,Abergwyngregyn,Gwynedd,Wales,SH6572,265500,372500,53.23245,-4.01652,LL33 0,Other
+104,Abergynolwyn,Gwynedd,Wales,SH6706,267500,306500,52.64002,-3.95959,LL36 9,Other
+105,Aberhosan,Powys,Wales,SN8097,280500,297500,52.56217,-3.76432,SY20 8,Other
+106,Aberkenfig,Bridgend,Wales,SS8983,289500,183500,51.53955,-3.59470,CF32 9,Other
+107,Aberlady,East Lothian,Scotland,NT4679,346500,679500,56.00544,-2.85950,EH32 0,Other
+108,Aberlemno,Angus,Scotland,NO5255,352500,755500,56.68881,-2.77706,DD8 3,Other
+109,Aberlerry,Ceredigion,Wales,SN6092,260500,292500,52.51249,-4.05707,SY24 5,Other
+110,Aberllefenni,Gwynedd,Wales,SH7709,277500,309500,52.66932,-3.81300,SY20 9,Other
+111,Abermagwr,Ceredigion,Wales,SN6673,266500,273500,52.34328,-3.96112,SY23 4,Other
+112,Abermorddu,Flintshire,Wales,SJ3056,330500,356500,53.10115,-3.03947,LL12 9,Other
+113,Abermule/Aber-miwl,Powys,Wales,SO1694,316500,294500,52.54193,-3.23265,SY15 6,Other
+114,Abernant,Carmarthenshire,Wales,SN3323,233500,223500,51.88513,-4.42065,SA33 5,Other
+115,Abernant,Powys,Wales,SO1797,317500,297500,52.56904,-3.21865,SY15 6,Other
+116,Abernethy,Perth and Kinross,Scotland,NO1816,318500,716500,56.33383,-3.31975,PH2 9,Other
+117,Abernyte,Perth and Kinross,Scotland,NO2531,325500,731500,56.46971,-3.21083,PH14 9,Other
+118,Aber-oer,Wrexham,Wales,SJ2849,328500,349500,53.03798,-3.06778,LL14 4,Other
+119,Aberporth,Ceredigion,Wales,SN2651,226500,251500,52.13449,-4.53644,SA43 2,Other
+120,Abersoch,Gwynedd,Wales,SH3128,231500,328500,52.82761,-4.50242,LL53 7,Other
+121,Abersychan,Torfaen,Wales,SO2603,326500,203500,51.72538,-3.06552,NP4 7,Town
+122,Aberthin,The Vale of Glamorgan,Wales,ST0075,300500,175500,51.46969,-3.43389,CF71 7,Other
+123,Abertillery/Abertyleri,Blaenau Gwent,Wales,SO2104,321500,204500,51.73369,-3.13812,NP13 1,Town
+124,Abertridwr,Caerphilly,Wales,ST1289,312500,189500,51.59752,-3.26466,CF83 4,Other
+125,Abertridwr,Powys,Wales,SJ0319,303500,319500,52.76445,-3.43160,SY10 0,Other
+126,Abertrinant,Gwynedd,Wales,SH6305,263500,305500,52.63004,-4.01825,LL36 9,Other
+127,Abertysswg,Caerphilly,Wales,SO1305,313500,205500,51.74150,-3.25419,NP22 5,Other
+128,Aberuthven,Perth and Kinross,Scotland,NN9715,297500,715500,56.32077,-3.65886,PH3 1,Other
+129,Aber Village,Powys,Wales,SO1021,310500,221500,51.88485,-3.30176,LD3 7,Other
+130,Aberwheeler/Aberchwiler,Denbighshire,Wales,SJ0969,309500,369500,53.21482,-3.35671,LL16 4,Other
+131,Aberyscir,Powys,Wales,SN9929,299500,229500,51.95488,-3.46387,LD3 9,Other
+132,Aberystwyth,Ceredigion,Wales,SN5881,258500,281500,52.41314,-4.08185,SY23 1,Town
+133,Abhainn Suidhe,Na h-Eileanan an Iar,Scotland,NB0408,104500,908500,57.96729,-6.99897,HS3 3,Other
+134,Abingdon-on-Thames,Oxfordshire,England,SU5198,451500,198500,51.68291,-1.25649,OX14 3,Town
+135,Abinger Common,Surrey,England,TQ1145,511500,145500,51.19785,-0.40558,RH5 6,Other
+136,Abinger Hammer,Surrey,England,TQ0947,509500,147500,51.21621,-0.43358,RH5 6,Other
+137,Abington,South Lanarkshire,Scotland,NS9323,293500,623500,55.49365,-3.68723,ML12 6,Other
+138,Abington,Northamptonshire,England,SP7761,477500,261500,52.24623,-0.86629,NN1 5,Other
+139,Abington Pigotts,Cambridgeshire,England,TL3044,530500,244500,52.08348,-0.09691,SG8 0,Other
+140,Abington Vale,Northamptonshire,England,SP7861,478500,261500,52.24609,-0.85165,NN3 3,Other
+141,Abingworth,West Sussex,England,TQ1016,510500,116500,50.93737,-0.42874,RH20 3,Other
+142,Ab Kettleby,Leicestershire,England,SK7223,472500,323500,52.80419,-0.92601,LE14 3,Other
+143,Ab Lench,Worcestershire,England,SP0151,401500,251500,52.16177,-1.97949,WR11 4,Other
+144,Ablington,Wiltshire,England,SU1546,415500,146500,51.21749,-1.77946,SP4 8,Other
+145,Ablington,Gloucestershire,England,SP1007,410500,207500,51.76608,-1.84925,GL7 5,Other
+146,Abney,Derbyshire,England,SK1979,419500,379500,53.31208,-1.70879,S32 1,Other
+147,Aboyne,Aberdeenshire,Scotland,NO5298,352500,798500,57.07506,-2.78512,AB34 5,Other
+148,Abraham Heights,Lancashire,England,SD4661,346500,461500,54.04668,-2.81857,LA1 5,Other
+149,Abram,Greater Manchester,England,SD6001,360500,401500,53.50869,-2.59706,WN2 5,Town
+150,Abriachan,Highland,Scotland,NH5535,255500,835500,57.38691,-4.40556,IV3 8,Other
+151,Abridge,Essex,England,TQ4696,546500,196500,51.64821,0.11609,RM4 1,Other
+152,Abronhill,North Lanarkshire,Scotland,NS7875,278500,675500,55.95710,-3.94762,G67 3,Other
+153,Abshot,Hampshire,England,SU5105,451500,105500,50.84674,-1.26986,PO14 4,Other
+154,Abson,Gloucestershire,England,ST7074,370500,174500,51.46869,-2.42608,BS30 5,Other
+155,Abthorpe,Northamptonshire,England,SP6446,464500,246500,52.11307,-1.05952,NN12 8,Other
+156,Abune-the-hill,Orkney Islands,Scotland,HY2828,328500,1028500,59.13727,-3.25124,KW17 2,Other
+157,Aby,Lincolnshire,England,TF4178,541500,378500,53.28459,0.12106,LN13 0,Other
+158,Acarsaid,Highland,Scotland,NM5872,158500,772500,56.78124,-5.95504,PH36 4,Other
+159,Acaster Malbis,North Yorkshire,England,SE5845,458500,445500,53.90237,-1.11113,YO23 2,Other
+160,Acaster Selby,North Yorkshire,England,SE5741,457500,441500,53.86654,-1.12710,YO23 7,Other
+161,Accrington,Lancashire,England,SD7528,375500,428500,53.75228,-2.37303,BB5 0,Town
+162,Acha,Argyll and Bute,Scotland,NM1854,118500,754500,56.59761,-6.58795,PA78 6,Other
+163,Achachork,Highland,Scotland,NG4745,147500,845500,57.42943,-6.20819,IV51 9,Other
+164,Achadh nan Darach,Highland,Scotland,NN0055,200500,755500,56.64865,-5.25567,PA38 4,Other
+165,Achahoish,Argyll and Bute,Scotland,NR7877,178500,677500,55.93936,-5.54828,PA31 8,Other
+166,Achaleven,Argyll and Bute,Scotland,NM9133,191500,733500,56.44743,-5.38452,PA37 1,Other
+167,Achalone,Highland,Scotland,ND1556,315500,956500,58.48848,-3.45108,KW12 6,Other
+168,Acha Mòr,Na h-Eileanan an Iar,Scotland,NB3128,131500,928500,58.16346,-6.56695,HS2 9,Other
+169,Achanelid,Argyll and Bute,Scotland,NS0087,200500,687500,56.03870,-5.20408,PA22 3,Other
+170,Ach'an Tobhair,Highland,Scotland,NN0972,209500,772500,56.80490,-5.12175,PH33 6,Other
+171,Achaphubuil,Highland,Scotland,NN0876,208500,776500,56.84037,-5.14110,PH33 7,Other
+172,Acharacle/Ath-Tharracail,Highland,Scotland,NM6767,167500,767500,56.74100,-5.80354,PH36 4,Other
+173,Achargary,Highland,Scotland,NC7254,272500,954500,58.46008,-4.18700,KW14 7,Other
+175,Acharn,Perth and Kinross,Scotland,NN7543,275500,743500,56.56689,-4.02769,PH15 2,Other
+174,Acharn,Angus,Scotland,NO2876,328500,776500,56.87436,-3.17467,DD8 4,Other
+176,Achavandra Muir,Highland,Scotland,NH7793,277500,893500,57.91400,-4.06929,IV25 3,Other
+177,Achddu,Carmarthenshire,Wales,SN4401,244500,201500,51.69066,-4.25109,SA16 0,Other
+178,Achfary,Highland,Scotland,NC2939,229500,939500,58.31086,-4.91192,IV27 4,Other
+179,Achfrish,Highland,Scotland,NC5612,256500,912500,58.07824,-4.43495,IV27 4,Other
+180,Achgarve,Highland,Scotland,NG8893,188500,893500,57.88069,-5.56884,IV22 2,Other
+181,Achiemore,Highland,Scotland,NC8958,289500,958500,58.50062,-3.89776,KW13 6,Other
+182,A' Chill,Highland,Scotland,NG2605,126500,805500,57.05909,-6.51277,PH44 4,Other
+183,Achiltibuie,Highland,Scotland,NC0208,202500,908500,58.02160,-5.34570,IV26 2,Other
+184,Achina,Highland,Scotland,NC7060,270500,960500,58.51334,-4.22466,KW14 7,Other
+185,Achininver,Highland,Scotland,NC5764,257500,964500,58.54517,-4.45009,IV27 4,Other
+186,Achintee,Highland,Scotland,NG9441,194500,841500,57.41726,-5.42362,IV54 8,Other
+187,Achintraid,Highland,Scotland,NG8438,184500,838500,57.38573,-5.58714,IV54 8,Other
+188,Achleck,Argyll and Bute,Scotland,NM4145,141500,745500,56.53021,-6.20544,PA73 6,Other
+189,Achluachrach,Highland,Scotland,NN3081,230500,781500,56.89378,-4.78428,PH31 4,Other
+190,Achlyness,Highland,Scotland,NC2452,224500,952500,58.42549,-5.00704,IV27 4,Other
+191,Achmelvich,Highland,Scotland,NC0524,205500,924500,58.16639,-5.30828,IV27 4,Other
+192,Achmore,Highland,Scotland,NG8533,185500,833500,57.34138,-5.56618,IV53 8,Other
+193,Achmore,Highland,Scotland,NH0296,202500,896500,57.91400,-5.33568,IV23 2,Other
+194,Achnacarnin,Highland,Scotland,NC0432,204500,932500,58.23768,-5.33196,IV27 4,Other
+195,Achnacarry,Highland,Scotland,NN1787,217500,787500,56.94267,-5.00170,PH34 4,Other
+196,Achnacloich/Ach na Cloiche,Highland,Scotland,NG5908,159500,808500,57.10438,-5.97293,IV46 8,Other
+197,Achnacroish,Argyll and Bute,Scotland,NM8540,185500,740500,56.50751,-5.48742,PA34 5,Other
+198,Achnaha,Highland,Scotland,NM4668,146500,768500,56.73902,-6.14696,PH36 4,Other
+199,Achnahanat,Highland,Scotland,NH5198,251500,898500,57.95097,-4.51082,IV27 4,Other
+200,Achnahannet,Highland,Scotland,NH9727,297500,827500,57.32648,-3.70393,PH26 3,Other
+201,Achnahard,Argyll and Bute,Scotland,NM3923,139500,723500,56.33200,-6.21596,PA67 6,Other
+202,Achnahuaigh,Highland,Scotland,NC5864,258500,964500,58.54549,-4.43292,IV27 4,Other
+203,Achnairn,Highland,Scotland,NC5512,255500,912500,58.07791,-4.45189,IV27 4,Other
+204,Achnamara,Argyll and Bute,Scotland,NR7787,177500,687500,56.02857,-5.57252,PA31 8,Other
+205,Achnasheen/Achadh na Sine,Highland,Scotland,NH1658,216500,858500,57.57916,-5.07070,IV22 2,Other
+206,Achosnich,Highland,Scotland,NM4467,144500,767500,56.72897,-6.17857,PH36 4,Other
+207,Achreamie,Highland,Scotland,ND0166,301500,966500,58.57531,-3.69543,KW14 7,Other
+208,Achriesgill,Highland,Scotland,NC2554,225500,954500,58.44383,-4.99147,IV27 4,Other
+209,Achrimsdale,Highland,Scotland,NC9006,290500,906500,58.03409,-3.85604,KW9 6,Other
+210,Achtalean,Highland,Scotland,NG4746,147500,846500,57.43839,-6.20922,IV51 9,Other
+211,Achterneed,Highland,Scotland,NH4859,248500,859500,57.60000,-4.53678,IV14 9,Other
+212,Achtoty,Highland,Scotland,NC6762,267500,962500,58.53038,-4.27727,KW14 7,Other
+213,Achurch,Northamptonshire,England,TL0282,502500,282500,52.43088,-0.49384,PE8 5,Other
+214,Achuvoldrach,Highland,Scotland,NC5658,256500,958500,58.49100,-4.46347,IV27 4,Other
+215,Ackenthwaite,Cumbria,England,SD5081,350500,481500,54.22681,-2.76077,LA7 7,Other
+216,Ackergill,Highland,Scotland,ND3553,335500,953500,58.46497,-3.10727,KW1 4,Other
+217,Acklam,North Yorkshire,England,NZ4817,448500,517500,54.55043,-1.25170,TS5 7,Other
+218,Acklam,North Yorkshire,England,SE7861,478500,461500,54.04351,-0.80268,YO17 9,Other
+219,Ackleton,Shropshire,England,SO7798,377500,298500,52.58384,-2.33351,WV6 7,Other
+220,Acklington,Northumberland,England,NU2201,422500,601500,55.30708,-1.64711,NE65 9,Other
+221,Ackton,West Yorkshire,England,SE4121,441500,421500,53.68831,-1.37307,WF7 6,Other
+222,Ackworth Moor Top,West Yorkshire,England,SE4316,443500,416500,53.64321,-1.34348,WF7 7,Other
+223,Acle,Norfolk,England,TG4010,640500,310500,52.63890,1.55313,NR13 3,Other
+224,Acock's Green,West Midlands,England,SP1183,411500,283500,52.44934,-1.83222,B27 7,Other
+225,Acol,Kent,England,TR3067,630500,167500,51.35978,1.30949,CT7 0,Other
+226,Acomb,Northumberland,England,NY9366,393500,566500,54.99304,-2.10312,NE46 4,Other
+227,Acomb,North Yorkshire,England,SE5750,457500,450500,53.94742,-1.12541,YO24 3,Other
+228,Acre,Greater Manchester,England,SD9306,393500,406500,53.55508,-2.09959,OL1 4,Other
+229,Acrefair,Wrexham,Wales,SJ2743,327500,343500,52.98392,-3.08134,LL14 3,Other
+230,Acres Nook,Staffordshire,England,SJ8453,384500,353500,53.07850,-2.23283,ST7 4,Other
+235,Acton,Suffolk,England,TL8944,589500,244500,52.06645,0.76322,CO10 0,Other
+232,Acton,Shropshire,England,SO3184,331500,284500,52.45414,-3.00945,SY9 5,Other
+234,Acton,Cheshire,England,SJ6353,363500,353500,53.07747,-2.54629,CW5 8,Other
+236,Acton,Ealing - Greater London,England,TQ2080,520550,180550,51.51103,-0.26425,W3 6,Town
+233,Acton,Wrexham,Wales,SJ3451,334500,351500,53.05672,-2.97872,LL12 7,Other
+237,Acton,Dorset,England,SY9878,398500,78500,50.60622,-2.02256,BH19 3,Other
+231,Acton,Worcestershire,England,SO8467,384500,267500,52.30540,-2.22875,DY13 9,Other
+238,Acton,Staffordshire,England,SJ8241,382500,341500,52.97057,-2.26203,ST5 4,Other
+239,Acton Beauchamp,Herefordshire,England,SO6750,367500,250500,52.15182,-2.47642,WR6 5,Other
+240,Acton Bridge,Cheshire,England,SJ5975,359500,375500,53.27493,-2.60879,CW8 3,Other
+241,Acton Burnell,Shropshire,England,SJ5301,353500,301500,52.60928,-2.68812,SY5 7,Other
+242,Acton Green,Hounslow - Greater London,England,TQ2079,520500,179500,51.50160,-0.26533,W4 5,Other
+243,Acton Green,Herefordshire,England,SO6950,369500,250500,52.15193,-2.44719,WR6 5,Other
+244,Acton Pigott,Shropshire,England,SJ5402,354500,302500,52.61835,-2.67349,SY5 7,Other
+245,Acton Place,Suffolk,England,TL8845,588500,245500,52.07577,0.74920,CO10 0,Other
+246,Acton Reynald,Shropshire,England,SJ5323,353500,323500,52.80703,-2.69124,SY4 4,Other
+247,Acton Round,Shropshire,England,SO6395,363500,295500,52.55611,-2.53979,WV16 6,Other
+248,Acton Scott,Shropshire,England,SO4589,345500,289500,52.50066,-2.80428,SY6 6,Other
+249,Acton Trussell,Staffordshire,England,SJ9318,393500,318500,52.76406,-2.09777,ST17 0,Other
+250,Acton Turville,Gloucestershire,England,ST8080,380500,180500,51.52307,-2.28246,GL9 1,Other
+251,Adabroc,Na h-Eileanan an Iar,Scotland,NB5363,153500,963500,58.48978,-6.23146,HS2 0,Other
+252,Adambrae,West Lothian,Scotland,NT0465,304500,665500,55.87317,-3.52784,EH54 9,Other
+253,Adam's Green,Dorset,England,ST5407,354500,107500,50.86520,-2.64791,BA22 9,Other
+254,Adbaston,Staffordshire,England,SJ7627,376500,327500,52.84449,-2.35035,ST20 0,Other
+255,Adber,Dorset,England,ST5920,359500,120500,50.98247,-2.57831,DT9 4,Other
+256,Adbolton,Nottinghamshire,England,SK6038,460500,338500,52.94049,-1.10120,NG2 5,Other
+257,Adderbury,Oxfordshire,England,SP4735,447500,235500,52.01590,-1.30927,OX17 3,Other
+258,Adderley,Shropshire,England,SJ6639,366500,339500,52.95182,-2.50006,TF9 3,Other
+259,Adderley Green,Staffordshire,England,SJ9144,391500,344500,52.99775,-2.12810,ST3 5,Other
+260,Addiewell,West Lothian,Scotland,NS9962,299500,662500,55.84520,-3.60660,EH55 8,Other
+261,Addingham,West Yorkshire,England,SE0749,407500,449500,53.94156,-1.88723,LS29 0,Other
+262,Addingham Moorside,West Yorkshire,England,SE0747,407500,447500,53.92358,-1.88728,LS29 9,Other
+266,Addington,Kent,England,TQ6559,565500,159500,51.31055,0.37315,ME19 5,Other
+265,Addington,Cornwall,England,SX2565,225500,65500,50.46330,-4.46000,PL14 6,Other
+264,Addington,Croydon - Greater London,England,TQ3764,537550,164550,51.36337,-0.02564,CR0 8,Other
+263,Addington,Buckinghamshire,England,SP7428,474500,228500,51.95001,-0.91743,MK18 2,Other
+267,Addinston,Scottish Borders,Scotland,NT5253,352500,653500,55.77249,-2.75872,TD2 6,Other
+268,Addiscombe,Croydon - Greater London,England,TQ3466,534550,166550,51.38206,-0.06795,CR0 6,Other
+269,Addlestone,Surrey,England,TQ0464,504500,164500,51.36996,-0.50018,KT15 1,Town
+270,Addlestonemoor,Surrey,England,TQ0465,504500,165500,51.37894,-0.49988,KT15 2,Other
+271,Addlethorpe,Lincolnshire,England,TF5468,554500,368500,53.19115,0.31105,PE24 4,Other
+272,Adel,West Yorkshire,England,SE2739,427500,439500,53.85101,-1.58346,LS16 8,Other
+273,Adeney,Shropshire,England,SJ7018,370500,318500,52.76329,-2.43861,TF10 8,Other
+274,Adeyfield,Hertfordshire,England,TL0707,507500,207500,51.75588,-0.44396,HP2 4,Other
+275,Adfa,Powys,Wales,SJ0501,305500,301500,52.60304,-3.39679,SY16 3,Other
+276,Adforton,Herefordshire,England,SO4071,340500,271500,52.33834,-2.87471,SY7 0,Other
+277,Adgestone,Isle of Wight,England,SZ5985,459500,85500,50.66614,-1.15946,PO36 9,Other
+278,Adisham,Kent,England,TR2253,622500,153500,51.23727,1.18605,CT3 3,Other
+279,Adlestrop,Gloucestershire,England,SP2427,424500,227500,51.94546,-1.64497,GL56 0,Other
+280,Adlingfleet,East Riding of Yorkshire,England,SE8421,484500,421500,53.68314,-0.72208,DN14 8,Other
+282,Adlington,Lancashire,England,SD6013,360500,413500,53.61655,-2.59858,PR6 9,Town
+281,Adlington,Cheshire,England,SJ9180,391500,380500,53.32136,-2.12906,SK10 4,Other
+283,Adlington Park,Lancashire,England,SD5811,358500,411500,53.59842,-2.62855,WN1 2,Other
+284,Admaston,Staffordshire,England,SK0523,405500,323500,52.80902,-1.91985,WS15 3,Other
+285,Admaston,Shropshire,England,SJ6312,363500,312500,52.70893,-2.54168,TF5 0,Other
+286,Admington,Warwickshire,England,SP2046,420500,246500,52.11644,-1.70203,CV36 4,Other
+287,Adpar,Ceredigion,Wales,SN3041,230500,241500,52.04591,-4.47308,SA38 9,Other
+288,Adsborough,Somerset,England,ST2729,327500,129500,51.06024,-3.03591,TA2 8,Other
+289,Adscombe,Somerset,England,ST1837,318500,137500,51.13096,-3.16612,TA5 1,Other
+290,Adstock,Buckinghamshire,England,SP7330,473500,230500,51.96813,-0.93155,MK18 2,Other
+291,Adstone,Northamptonshire,England,SP5951,459500,251500,52.15858,-1.13165,NN12 8,Other
+292,Adswood,Greater Manchester,England,SJ8888,388500,388500,53.39321,-2.17439,SK3 8,Other
+293,Adversane,West Sussex,England,TQ0723,507500,123500,51.00086,-0.46935,RH14 9,Other
+294,Advie,Highland,Scotland,NJ1234,312500,834500,57.39247,-3.45741,PH26 3,Other
+295,Adwalton,West Yorkshire,England,SE2328,423500,428500,53.75234,-1.64509,BD11 1,Other
+296,Adwell,Oxfordshire,England,SU6999,469500,199500,51.68996,-0.99597,OX9 7,Other
+297,Adwick Le Street,South Yorkshire,England,SE5307,453500,407500,53.56140,-1.19378,DN6 7,Town
+298,Adwick upon Dearne,South Yorkshire,England,SE4701,447500,401500,53.50805,-1.28526,S64 0,Other
+299,Ae,Dumfries and Galloway,Scotland,NX9889,298500,589500,55.18932,-3.59580,DG1 1,Other
+300,Affetside,Greater Manchester,England,SD7513,375500,413500,53.61747,-2.37184,BL8 3,Other
+301,Affleck,Aberdeenshire,Scotland,NJ8623,386500,823500,57.30189,-2.22568,AB21 0,Other
+302,Affpuddle,Dorset,England,SY8093,380500,93500,50.74078,-2.27772,DT2 7,Other
+303,Afon Eitha,Wrexham,Wales,SJ2945,329500,345500,53.00216,-3.05199,LL14 2,Other
+304,Afon-wen,Flintshire,Wales,SJ1371,313500,371500,53.23346,-3.29737,CH7 5,Other
+305,Afon Wen,Gwynedd,Wales,SH4437,244500,337500,52.91236,-4.31395,LL53 6,Other
+306,Afton,Isle of Wight,England,SZ3486,434500,86500,50.67714,-1.51309,PO40 9,Other
+307,Agar Nook,Leicestershire,England,SK4514,445500,314500,52.72624,-1.32772,LE67 4,Other
+308,Agbrigg,West Yorkshire,England,SE3419,434500,419500,53.67084,-1.47928,WF1 5,Other
+309,Aggborough,Worcestershire,England,SO8375,383500,275500,52.37729,-2.24381,DY10 1,Other
+310,Agglethorpe,North Yorkshire,England,SE0886,408500,486500,54.27408,-1.87097,DL8 4,Other
+311,Aglionby,Cumbria,England,NY4456,344500,556500,54.90013,-2.86698,CA4 8,Other
+312,Aifft,Denbighshire,Wales,SJ1169,311500,369500,53.21516,-3.32677,LL16 4,Other
+313,Aigburth,Merseyside,England,SJ3886,338500,386500,53.37176,-2.92581,L17 6,Other
+314,Aiginis,Na h-Eileanan an Iar,Scotland,NB4832,148500,932500,58.20929,-6.28318,HS2 0,Other
+315,Aike,East Riding of Yorkshire,England,TA0445,504500,445500,53.89515,-0.41125,YO25 9,Other
+316,Aiketgate,Cumbria,England,NY4846,348500,546500,54.81070,-2.80282,CA4 9,Other
+317,Aikton,Cumbria,England,NY2753,327500,553500,54.87099,-3.13127,CA7 0,Other
+318,Ailby,Lincolnshire,England,TF4376,543500,376500,53.26609,0.15014,LN13 0,Other
+319,Ailstone,Warwickshire,England,SP2050,420500,250500,52.15241,-1.70179,CV37 8,Other
+320,Ailsworth,Cambridgeshire,England,TL1198,511500,298500,52.57290,-0.35617,PE5 7,Other
+321,Aimes Green,Essex,England,TL3902,539500,202500,51.70391,0.01738,EN9 2,Other
+322,Ainderby Quernhow,North Yorkshire,England,SE3480,434500,480500,54.21907,-1.47241,YO7 4,Other
+323,Ainderby Steeple,North Yorkshire,England,SE3392,433500,492500,54.32698,-1.48641,DL7 9,Other
+324,Aingers Green,Essex,England,TM1120,611500,220500,51.84303,1.06894,CO7 8,Other
+325,Ainley Top,West Yorkshire,England,SE1119,411500,419500,53.67185,-1.82741,HD2 2,Other
+326,Ainsdale,Merseyside,England,SD3112,331500,412500,53.60456,-3.03668,PR8 3,Other
+327,Ainsdale-on-Sea,Merseyside,England,SD2912,329500,412500,53.60430,-3.06690,PR8 2,Other
+328,Ainstable,Cumbria,England,NY5346,353500,546500,54.81119,-2.72504,CA4 9,Other
+329,Ainsworth,Greater Manchester,England,SD7610,376500,410500,53.59055,-2.35650,BL2 5,Other
+330,Ainthorpe,North Yorkshire,England,NZ7008,470500,508500,54.46699,-0.91379,YO21 2,Other
+331,Aintree,Merseyside,England,SJ3798,337500,398500,53.47950,-2.94322,L10 8,Other
+332,Aird,Na h-Eileanan an Iar,Scotland,NB5635,156500,935500,58.24065,-6.15054,HS2 0,Other
+333,Aird,Na h-Eileanan an Iar,Scotland,NF7654,76500,854500,57.46498,-7.39759,HS7 5,Other
+334,Àird Adhanais,Na h-Eileanan an Iar,Scotland,NG2294,122500,894500,57.85354,-6.67942,HS4 3,Other
+335,Àird a' Mhachair,Na h-Eileanan an Iar,Scotland,NF7445,74500,845500,57.38307,-7.41884,HS8 5,Other
+336,Àird a' Mhulaidh,Na h-Eileanan an Iar,Scotland,NB1810,118500,910500,57.99426,-6.76556,HS3 3,Other
+337,Aird/An Àird,Highland,Scotland,NG5900,159500,800500,57.03269,-5.96526,IV45 8,Other
+338,Àird Asaig,Na h-Eileanan an Iar,Scotland,NB1302,113500,902500,57.91947,-6.84015,HS3 3,Other
+339,Àird Choinnich,Na h-Eileanan an Iar,Scotland,NF7546,75500,846500,57.39272,-7.40360,HS8 5,Other
+340,Àird Dhail,Na h-Eileanan an Iar,Scotland,NB4761,147500,961500,58.46843,-6.33187,HS2 0,Other
+341,Airdens,Highland,Scotland,NH6293,262500,893500,57.90963,-4.32224,IV24 3,Other
+342,Àird Mhidhinis,Na h-Eileanan an Iar,Scotland,NF7103,71500,803500,57.00533,-7.41312,HS9 5,Other
+343,Àird Mhighe,Na h-Eileanan an Iar,Scotland,NG0887,108500,887500,57.78200,-6.90591,HS3 3,Other
+344,Àird Mhìghe,Na h-Eileanan an Iar,Scotland,NG1292,112500,892500,57.82933,-6.84490,HS3 3,Other
+346,Àird Mhòr,Na h-Eileanan an Iar,Scotland,NF7103,71500,803500,57.00533,-7.41312,HS9 5,Other
+345,Àird Mhòr,Na h-Eileanan an Iar,Scotland,NF7945,79500,845500,57.38661,-7.33604,HS8 5,Other
+347,Àird na Monadh,Na h-Eileanan an Iar,Scotland,NF7745,77500,845500,57.38520,-7.36916,HS8 5,Other
+348,Àird nan Strùban,Na h-Eileanan an Iar,Scotland,NF8457,84500,857500,57.49744,-7.26867,HS6 5,Other
+349,Airdrie,North Lanarkshire,Scotland,NS7665,276500,665500,55.86680,-3.97506,ML6 6,Town
+350,Àird Ruairidh,Na h-Eileanan an Iar,Scotland,NF7421,74500,821500,57.16844,-7.38731,HS8 5,Other
+351,Àird Shleibhe,Na h-Eileanan an Iar,Scotland,NG1189,111500,889500,57.80184,-6.85805,HS3 3,Other
+352,Àird Thunga,Na h-Eileanan an Iar,Scotland,NB4636,146500,936500,58.24397,-6.32147,HS2 0,Other
+353,Airdtorrisdale,Highland,Scotland,NC6762,267500,962500,58.53038,-4.27727,KW14 7,Other
+354,Àird Uig,Na h-Eileanan an Iar,Scotland,NB0537,105500,937500,58.22742,-7.01854,HS2 9,Other
+355,Airedale,West Yorkshire,England,SE4525,445500,425500,53.72393,-1.31192,WF10 3,Other
+356,Aire View,North Yorkshire,England,SD9946,399500,446500,53.91465,-2.00910,BD20 8,Other
+357,Airidh a Bhruaich,Na h-Eileanan an Iar,Scotland,NB2417,124500,917500,58.06068,-6.67259,HS2 9,Other
+358,Airlie,Angus,Scotland,NO3150,331500,750500,56.64129,-3.11849,DD8 5,Other
+359,Airmyn,North Yorkshire,England,SE7225,472500,425500,53.72088,-0.90279,DN14 8,Other
+360,Airntully,Perth and Kinross,Scotland,NO0935,309500,735500,56.50283,-3.47184,PH1 4,Other
+361,Airor,Highland,Scotland,NG7105,171500,805500,57.08361,-5.77254,IV43 8,Other
+362,Airth,Falkirk,Scotland,NS8987,289500,687500,56.06753,-3.77648,FK2 8,Other
+363,Airthrey Castle,Stirling,Scotland,NS8196,281500,696500,56.14643,-3.90890,FK9 4,Other
+364,Airton,North Yorkshire,England,SD9059,390500,459500,54.03140,-2.14652,BD23 4,Other
+365,Airy Hill,North Yorkshire,England,NZ8909,489500,509500,54.47298,-0.62043,YO22 4,Other
+367,Aisby,Lincolnshire,England,TF0138,501500,338500,52.93431,-0.49130,NG32 3,Other
+366,Aisby,Lincolnshire,England,SK8792,487500,392500,53.42205,-0.68477,DN21 5,Other
+368,Aisgernis,Na h-Eileanan an Iar,Scotland,NF7424,74500,824500,57.19527,-7.39122,HS8 5,Other
+369,Aish,Devon,England,SX6960,269500,60500,50.42981,-3.83871,TQ10 9,Other
+370,Aish,Devon,England,SX8458,284500,58500,50.41498,-3.62700,TQ9 6,Other
+371,Aisholt,Somerset,England,ST1935,319500,135500,51.11312,-3.15138,TA5 1,Other
+372,Aiskew,North Yorkshire,England,SE2788,427500,488500,54.29139,-1.57903,DL8 1,Other
+375,Aislaby,North Yorkshire,England,SE7785,477500,485500,54.25931,-0.81179,YO18 8,Other
+374,Aislaby,North Yorkshire,England,NZ8508,485500,508500,54.46469,-0.68242,YO21 1,Other
+373,Aislaby,County Durham,England,NZ4012,440500,512500,54.50620,-1.37606,TS16 0,Other
+376,Aisthorpe,Lincolnshire,England,SK9480,494500,380500,53.31301,-0.58305,LN1 2,Other
+377,Aith,Shetland Islands,Scotland,HU3455,434500,1155500,60.28222,-1.37798,ZE2 9,Other
+378,Aithnen,Powys,Wales,SJ2022,320500,322500,52.79419,-3.18045,SY10 9,Other
+379,Aithsetter,Shetland Islands,Scotland,HU4430,444500,1130500,60.05681,-1.20263,ZE2 9,Other
+380,Akeld,Northumberland,England,NT9529,395500,629500,55.55916,-2.07290,NE71 6,Other
+381,Akeley,Buckinghamshire,England,SP7037,470500,237500,52.03144,-0.97377,MK18 5,Other
+382,Akenham,Suffolk,England,TM1448,614500,248500,52.09325,1.12990,IP1 6,Other
+383,Albany,Tyne and Wear,England,NZ2957,429500,557500,54.91134,-1.54139,NE37 1,Other
+384,Alberbury,Shropshire,England,SJ3614,336500,314500,52.72440,-2.94165,SY5 9,Other
+385,Albert Town,Pembrokeshire,Wales,SM9415,194500,215500,51.80029,-4.98181,SA61 1,Other
+386,Albert Village,Leicestershire,England,SK3018,430500,318500,52.76325,-1.54945,DE11 8,Other
+387,Albourne,West Sussex,England,TQ2616,526500,116500,50.93408,-0.20114,BN6 9,Other
+388,Albourne Green,West Sussex,England,TQ2616,526500,116500,50.93408,-0.20114,BN6 9,Other
+389,Albrighton,Shropshire,England,SJ8104,381500,304500,52.63793,-2.27481,WV7 3,Other
+390,Albrighton,Shropshire,England,SJ4918,349500,318500,52.76173,-2.74980,SY4 3,Other
+391,Albro Castle,Ceredigion,Wales,SN1646,216500,246500,52.08635,-4.67969,SA43 3,Other
+392,Alburgh,Norfolk,England,TM2786,627500,286500,52.42912,1.34493,IP20 0,Other
+393,Albury,Hertfordshire,England,TL4324,543500,224500,51.90057,0.08432,SG11 2,Other
+394,Albury,Surrey,England,TQ0547,505500,147500,51.21696,-0.49083,GU5 9,Other
+395,Albury End,Hertfordshire,England,TL4223,542500,223500,51.89184,0.06938,SG11 2,Other
+396,Albury Heath,Surrey,England,TQ0646,506500,146500,51.20779,-0.47682,GU5 9,Other
+397,Albyfield,Cumbria,England,NY5452,354500,552500,54.86520,-2.71042,CA8 9,Other
+398,Alby Hill,Norfolk,England,TG1934,619500,334500,52.86320,1.25937,NR11 7,Other
+399,Alcaig,Highland,Scotland,NH5657,256500,857500,57.58467,-4.40187,IV7 8,Other
+400,Alcaston,Shropshire,England,SO4587,345500,287500,52.48269,-2.80395,SY6 6,Other
+401,Alcester,Dorset,England,ST8522,385500,122500,51.00170,-2.20802,SP7 0,Other
+402,Alcester,Warwickshire,England,SP0857,408500,257500,52.21565,-1.87701,B49 5,Other
+403,Alcester Lane's End,West Midlands,England,SP0780,407500,280500,52.42244,-1.89114,B13 0,Other
+404,Alciston,East Sussex,England,TQ5005,550500,105500,50.82948,0.13565,BN26 6,Other
+405,Alcombe,Wiltshire,England,ST8069,380500,169500,51.42417,-2.28184,SN13 8,Other
+406,Alcombe,Somerset,England,SS9645,296500,145500,51.19931,-3.48273,TA24 5,Other
+407,Alconbury,Cambridgeshire,England,TL1875,518500,275500,52.36475,-0.26109,PE28 4,Other
+408,Alconbury Weston,Cambridgeshire,England,TL1776,517500,276500,52.37395,-0.27542,PE28 4,Other
+409,Aldborough,Norfolk,England,TG1834,618500,334500,52.86360,1.24454,NR11 7,Other
+410,Aldborough,North Yorkshire,England,SE4066,440500,466500,54.09282,-1.38228,YO51 9,Other
+411,Aldborough Hatch,Redbridge - Greater London,England,TQ4589,545550,189550,51.58601,0.09948,IG2 7,Other
+412,Aldbourne,Wiltshire,England,SU2675,426500,175500,51.47784,-1.61981,SN8 2,Other
+413,Aldbrough,East Riding of Yorkshire,England,TA2438,524500,438500,53.82786,-0.10990,HU11 4,Other
+414,Aldbrough St John,North Yorkshire,England,NZ2011,420500,511500,54.49842,-1.68499,DL11 7,Other
+415,Aldbury,Hertfordshire,England,SP9612,496500,212500,51.80283,-0.60188,HP23 5,Other
+416,Aldcliffe,Lancashire,England,SD4660,346500,460500,54.03769,-2.81839,LA1 5,Other
+417,Aldclune,Perth and Kinross,Scotland,NN8963,289500,763500,56.74998,-3.80858,PH16 5,Other
+418,Aldeburgh,Suffolk,England,TM4656,646500,256500,52.15172,1.60190,IP15 5,Town
+419,Aldeby,Norfolk,England,TM4593,645500,293500,52.48414,1.61430,NR34 0,Other
+420,Aldenham,Hertfordshire,England,TQ1398,513500,198500,51.67381,-0.36000,WD25 8,Other
+421,Alderbrook,East Sussex,England,TQ5229,552500,129500,51.04462,0.17406,TN6 2,Other
+422,Alderbury,Wiltshire,England,SU1826,418500,126500,51.03756,-1.73752,SP5 3,Other
+423,Aldercar,Derbyshire,England,SK4447,444500,347500,53.02295,-1.33803,NG16 4,Other
+424,Alderford,Norfolk,England,TG1218,612500,318500,52.72239,1.14517,NR9 5,Other
+425,Alder Forest,Greater Manchester,England,SJ7599,375500,399500,53.49163,-2.37074,M30 8,Other
+426,Alderholt,Dorset,England,SU1212,412500,112500,50.91183,-1.82357,SP6 3,Other
+427,Alderley,Gloucestershire,England,ST7690,376500,190500,51.61283,-2.34078,GL12 7,Other
+428,Alderley Edge,Cheshire,England,SJ8478,384500,378500,53.30322,-2.23405,SK9 7,Town
+429,Alderman's Green,West Midlands,England,SP3583,435500,283500,52.44831,-1.47910,CV2 1,Other
+430,Aldermaston,Berkshire,England,SU5965,459500,165500,51.38544,-1.14636,RG7 4,Other
+431,Aldermaston Soke,Berkshire,England,SU6163,461500,163500,51.36724,-1.11797,RG7 2,Other
+432,Aldermaston Wharf,Berkshire,England,SU6067,460500,167500,51.40331,-1.13165,RG7 4,Other
+433,Alderminster,Warwickshire,England,SP2348,423500,248500,52.13431,-1.65808,CV37 8,Other
+434,Aldermoor,Hampshire,England,SU3915,439500,115500,50.93760,-1.43922,SO16 5,Other
+435,Alder Moor,Staffordshire,England,SK2227,422500,327500,52.84454,-1.66738,DE13 9,Other
+436,Alderney,Dorset,England,SZ0494,404500,94500,50.75008,-1.93758,BH12 4,Other
+437,Alder Row,Somerset,England,ST7743,377500,143500,51.19028,-2.32334,BA11 5,Other
+438,Aldersbrook,Redbridge - Greater London,England,TQ4087,540500,187500,51.56887,0.02582,E11 2,Other
+439,Alder's End,Herefordshire,England,SO6239,362500,239500,52.05261,-2.54828,HR1 4,Other
+440,Aldersey Green,Cheshire,England,SJ4656,346500,356500,53.10300,-2.80053,CH3 9,Other
+441,Aldersey Park,Cheshire,England,SJ4556,345500,356500,53.10290,-2.81547,CH3 9,Other
+442,Aldershawe,Staffordshire,England,SK1007,410500,307500,52.66512,-1.84618,WS14 0,Other
+443,Aldershot,Hampshire,England,SU8650,486500,150500,51.24712,-0.76208,GU11 1,Town
+444,Alderton,Suffolk,England,TM3441,634500,241500,52.02232,1.41653,IP12 3,Other
+445,Alderton,Gloucestershire,England,SP0033,400500,233500,51.99994,-1.99413,GL20 8,Other
+446,Alderton,Northamptonshire,England,SP7446,474500,246500,52.11182,-0.91351,NN12 7,Other
+447,Alderton,Shropshire,England,SJ4923,349500,323500,52.80667,-2.75057,SY4 3,Other
+448,Alderton,Wiltshire,England,ST8382,383500,182500,51.54115,-2.23931,SN14 6,Other
+449,Alderton Fields,Gloucestershire,England,SP0032,400500,232500,51.99095,-1.99413,GL20 8,Other
+450,Alderwasley,Derbyshire,England,SK3153,431500,353500,53.07780,-1.53124,DE56 2,Other
+451,Aldfield,North Yorkshire,England,SE2669,426500,469500,54.12069,-1.59606,HG4 3,Other
+452,Aldford,Cheshire,England,SJ4159,341500,359500,53.12944,-2.87575,CH3 6,Other
+453,Aldgate,City of London - Greater London,England,TQ3381,533450,181350,51.51532,-0.07817,EC3A 7,Other
+454,Aldgate,Rutland,England,SK9804,498500,304500,52.62933,-0.54614,PE9 3,Other
+455,Aldham,Essex,England,TL9226,592500,226500,51.90377,0.79684,CO6 3,Other
+456,Aldham,Suffolk,England,TM0445,604500,245500,52.07010,0.98234,IP7 6,Other
+457,Aldingbourne,West Sussex,England,SU9205,492500,105500,50.84164,-0.68762,PO20 3,Other
+458,Aldingham,Cumbria,England,SD2871,328500,471500,54.13435,-3.09579,LA12 9,Other
+459,Aldington,Worcestershire,England,SP0644,406500,244500,52.09880,-1.90653,WR11 7,Other
+460,Aldington,Kent,England,TR0636,606500,136500,51.09062,0.94743,TN25 7,Other
+461,Aldington Frith,Kent,England,TR0436,604500,136500,51.09134,0.91891,TN25 7,Other
+462,Aldon,Shropshire,England,SO4379,343500,279500,52.41057,-2.83204,SY7 9,Other
+463,Aldoth,Cumbria,England,NY1448,314500,548500,54.82402,-3.33230,CA7 4,Other
+464,Aldreth,Cambridgeshire,England,TL4473,544500,273500,52.34055,0.11963,CB6 3,Other
+465,Aldridge,West Midlands,England,SK0500,405500,300500,52.60226,-1.92023,WS9 8,Town
+466,Aldringham,Suffolk,England,TM4460,644500,260500,52.18850,1.57561,IP16 4,Other
+467,Aldrington,East Sussex,England,TQ2705,527500,105500,50.83500,-0.19075,BN3 5,Other
+468,Aldsworth,Gloucestershire,England,SP1510,415500,210500,51.79294,-1.77666,GL54 3,Other
+469,Aldwark,Derbyshire,England,SK2257,422500,357500,53.11421,-1.66531,DE4 4,Other
+470,Aldwark,North Yorkshire,England,SE4663,446500,463500,54.06535,-1.29101,YO61 1,Other
+471,Aldwarke,South Yorkshire,England,SK4494,444500,394500,53.44540,-1.33148,S65 3,Other
+472,Aldwick,West Sussex,England,SZ9198,491500,98500,50.77887,-0.70356,PO21 4,Other
+473,Aldwincle,Northamptonshire,England,TL0081,500500,281500,52.42226,-0.52355,NN14 3,Other
+474,Aldworth,Berkshire,England,SU5579,455500,179500,51.51171,-1.20164,RG8 9,Other
+475,Aldwych,Westminster - Greater London,England,TQ3081,530750,181050,51.51325,-0.11717,WC2A 2,Other
+476,Ale Oak,Shropshire,England,SO2284,322500,284500,52.45294,-3.14186,SY7 8,Other
+477,Alexandria,West Dunbartonshire,Scotland,NS3980,239500,680500,55.99053,-4.57464,G83 0,Town
+478,Aley,Somerset,England,ST1837,318500,137500,51.13096,-3.16612,TA5 1,Other
+479,Aley Green,Bedfordshire,England,TL0618,506500,218500,51.85494,-0.45506,LU1 4,Other
+480,Alfardisworthy,Devon,England,SS2911,229500,111500,50.87778,-4.42491,EX22 7,Other
+481,Alfington,Devon,England,SY1198,311500,98500,50.77930,-3.25663,EX11 1,Other
+482,Alfold,Surrey,England,TQ0334,503500,134500,51.10047,-0.52319,GU6 8,Other
+483,Alfold Bars,West Sussex,England,TQ0333,503500,133500,51.09148,-0.52348,RH14 0,Other
+484,Alfold Crossways,Surrey,England,TQ0435,504500,135500,51.10928,-0.50863,GU6 8,Other
+485,Alford,Lincolnshire,England,TF4575,545500,375500,53.25656,0.17965,LN13 9,Town
+486,Alford,Somerset,England,ST6032,360500,132500,51.09044,-2.56538,BA7 7,Other
+487,Alford,Aberdeenshire,Scotland,NJ5716,357500,816500,57.23723,-2.70573,AB33 8,Other
+488,Alfred's Well,Worcestershire,England,SO9472,394500,272500,52.35054,-2.08217,B61 9,Other
+489,Alfreton,Derbyshire,England,SK4155,441500,355500,53.09510,-1.38172,DE55 7,Town
+490,Alfrick,Worcestershire,England,SO7453,374500,253500,52.17916,-2.37434,WR6 5,Other
+491,Alfrick Pound,Worcestershire,England,SO7452,374500,252500,52.17017,-2.37427,WR6 5,Other
+492,Alfriston,East Sussex,England,TQ5103,551500,103500,50.81125,0.14901,BN26 5,Other
+493,Algarkirk,Lincolnshire,England,TF2935,529500,335500,52.90135,-0.07613,PE20 2,Other
+494,Alhampton,Somerset,England,ST6234,362500,134500,51.10856,-2.53703,BA4 6,Other
+495,Alisary,Highland,Scotland,NM7479,174500,779500,56.85201,-5.69994,PH38 4,Other
+496,Alkborough,Lincolnshire,England,SE8821,488500,421500,53.68247,-0.66153,DN15 9,Other
+497,Alkerton,Oxfordshire,England,SP3742,437500,242500,52.07960,-1.45421,OX15 6,Other
+498,Alkerton,Gloucestershire,England,SO7705,377500,205500,51.74774,-2.32731,GL10 3,Other
+499,Alkham,Kent,England,TR2542,625500,142500,51.13734,1.22205,CT15 7,Other
+500,Alkington,Shropshire,England,SJ5238,352500,338500,52.94178,-2.70827,SY13 3,Other

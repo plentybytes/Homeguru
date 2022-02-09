@@ -1,0 +1,98 @@
+[13-Apr-2013 06:33:49] PHP Warning:  include(includes/right-panel1.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/urwomco/public_html/homeguru/details.php on line 418
+[13-Apr-2013 06:33:49] PHP Warning:  include(includes/right-panel1.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/urwomco/public_html/homeguru/details.php on line 418
+[13-Apr-2013 06:33:50] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'includes/right-panel1.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/urwomco/public_html/homeguru/details.php on line 418
+[13-Apr-2013 06:44:11] PHP Warning:  include(includes/right-panel1.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/urwomco/public_html/homeguru/details.php on line 418
+[13-Apr-2013 06:44:11] PHP Warning:  include(includes/right-panel1.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/urwomco/public_html/homeguru/details.php on line 418
+[13-Apr-2013 06:44:11] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'includes/right-panel1.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/urwomco/public_html/homeguru/details.php on line 418
+[13-Apr-2013 06:57:53] PHP Parse error:  syntax error, unexpected T_ELSE in /home/urwomco/public_html/homeguru/details.php on line 64
+[15-Apr-2013 05:25:37] PHP Parse error:  syntax error, unexpected T_ELSEIF in /home/urwomco/public_html/homeguru/contactForProperty.php on line 10
+[15-Apr-2013 05:26:10] PHP Parse error:  syntax error, unexpected T_ELSEIF in /home/urwomco/public_html/homeguru/contactForProperty.php on line 10
+[15-Apr-2013 05:54:39] PHP Parse error:  syntax error, unexpected T_ELSEIF in /home/urwomco/public_html/homeguru/contactForProperty.php on line 10
+[15-Apr-2013 05:54:47] PHP Warning:  include(includes/right-panel1.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/urwomco/public_html/homeguru/contactForProperty.php on line 140
+[15-Apr-2013 05:54:47] PHP Warning:  include(includes/right-panel1.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/urwomco/public_html/homeguru/contactForProperty.php on line 140
+[15-Apr-2013 05:54:47] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'includes/right-panel1.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/urwomco/public_html/homeguru/contactForProperty.php on line 140
+[17-Apr-2013 04:39:38] PHP Warning:  mysqli_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (11) in /home/urwomco/public_html/homeguru/includes/functions/database.php on line 8
+[17-Apr-2013 04:39:47] PHP Warning:  mysqli_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/urwomco/public_html/homeguru/includes/functions/database.php on line 8
+[17-Apr-2013 04:41:38] PHP Warning:  mysqli_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/urwomco/public_html/homeguru/includes/functions/database.php on line 8
+[17-Apr-2013 04:41:48] PHP Warning:  mysqli_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/urwomco/public_html/homeguru/includes/functions/database.php on line 8
+[17-Apr-2013 04:42:06] PHP Warning:  mysqli_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/urwomco/public_html/homeguru/includes/functions/database.php on line 8
+[17-Apr-2013 05:20:38] PHP Warning:  mysqli_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (11) in /home/urwomco/public_html/homeguru/includes/functions/database.php on line 8
+[17-Apr-2013 05:20:48] PHP Warning:  mysqli_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (11) in /home/urwomco/public_html/homeguru/includes/functions/database.php on line 8
+[17-Apr-2013 05:20:58] PHP Warning:  mysqli_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (11) in /home/urwomco/public_html/homeguru/includes/functions/database.php on line 8
+[17-Apr-2013 05:22:48] PHP Warning:  mysqli_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/urwomco/public_html/homeguru/includes/functions/database.php on line 8
+[17-Apr-2013 05:22:58] PHP Warning:  mysqli_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/urwomco/public_html/homeguru/includes/functions/database.php on line 8
+[17-Apr-2013 05:23:08] PHP Warning:  mysqli_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/urwomco/public_html/homeguru/includes/functions/database.php on line 8
+[17-Apr-2013 05:23:18] PHP Warning:  mysqli_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/urwomco/public_html/homeguru/includes/functions/database.php on line 8
+[17-Apr-2013 05:23:28] PHP Warning:  mysqli_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/urwomco/public_html/homeguru/includes/functions/database.php on line 8
+[17-Apr-2013 05:23:38] PHP Warning:  mysqli_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/urwomco/public_html/homeguru/includes/functions/database.php on line 8
+[18-Apr-2013 04:23:57] PHP Parse error:  syntax error, unexpected '}' in /home/urwomco/public_html/homeguru/findmap.php on line 26
+[18-Apr-2013 04:24:00] PHP Parse error:  syntax error, unexpected '}' in /home/urwomco/public_html/homeguru/findmap.php on line 26
+[18-Apr-2013 04:24:01] PHP Parse error:  syntax error, unexpected '}' in /home/urwomco/public_html/homeguru/findmap.php on line 26
+[18-Apr-2013 04:24:02] PHP Parse error:  syntax error, unexpected '}' in /home/urwomco/public_html/homeguru/findmap.php on line 26
+[18-Apr-2013 04:24:04] PHP Parse error:  syntax error, unexpected '}' in /home/urwomco/public_html/homeguru/findmap.php on line 26
+[18-Apr-2013 04:24:04] PHP Parse error:  syntax error, unexpected '}' in /home/urwomco/public_html/homeguru/findmap.php on line 26
+[18-Apr-2013 04:24:05] PHP Parse error:  syntax error, unexpected '}' in /home/urwomco/public_html/homeguru/findmap.php on line 26
+[18-Apr-2013 04:24:05] PHP Parse error:  syntax error, unexpected '}' in /home/urwomco/public_html/homeguru/findmap.php on line 26
+[18-Apr-2013 04:24:05] PHP Parse error:  syntax error, unexpected '}' in /home/urwomco/public_html/homeguru/findmap.php on line 26
+[22-Apr-2013 02:16:05] PHP Parse error:  syntax error, unexpected '}' in /home/urwomco/public_html/homeguru/includes/search.php on line 31
+[22-Apr-2013 07:47:46] PHP Parse error:  syntax error, unexpected '}' in /home/urwomco/public_html/homeguru/search-property.php on line 32
+[22-Apr-2013 07:56:17] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/urwomco/public_html/homeguru/search-property.php on line 12
+[22-Apr-2013 07:56:21] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/urwomco/public_html/homeguru/search-property.php on line 12
+[23-Apr-2013 03:09:27] PHP Warning:  mysqli::connect() [<a href='mysqli.connect'>mysqli.connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/urwomco/public_html/homeguru/search.php on line 21
+[23-Apr-2013 03:09:27] PHP Warning:  mysqli::set_charset() [<a href='mysqli.set-charset'>mysqli.set-charset</a>]: invalid object or resource mysqli
+ in /home/urwomco/public_html/homeguru/search.php on line 22
+[23-Apr-2013 03:09:28] PHP Warning:  mysqli::connect() [<a href='mysqli.connect'>mysqli.connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/urwomco/public_html/homeguru/search.php on line 21
+[23-Apr-2013 03:09:28] PHP Warning:  mysqli::set_charset() [<a href='mysqli.set-charset'>mysqli.set-charset</a>]: invalid object or resource mysqli
+ in /home/urwomco/public_html/homeguru/search.php on line 22
+[23-Apr-2013 03:13:43] PHP Parse error:  syntax error, unexpected $end, expecting ',' or ';' in /home/urwomco/public_html/homeguru/includes/search.php on line 253
+[23-Apr-2013 03:13:54] PHP Parse error:  syntax error, unexpected $end, expecting ',' or ';' in /home/urwomco/public_html/homeguru/includes/search.php on line 253
+[23-Apr-2013 04:11:32] PHP Parse error:  syntax error, unexpected $end in /home/urwomco/public_html/homeguru/search-property.php on line 255
+[23-Apr-2013 04:11:38] PHP Parse error:  syntax error, unexpected $end in /home/urwomco/public_html/homeguru/search-property.php on line 255
+[23-Apr-2013 04:11:42] PHP Parse error:  syntax error, unexpected $end in /home/urwomco/public_html/homeguru/search-property.php on line 255
+[23-Apr-2013 04:12:20] PHP Parse error:  syntax error, unexpected $end in /home/urwomco/public_html/homeguru/search-property.php on line 259
+[23-Apr-2013 04:25:44] PHP Parse error:  syntax error, unexpected '}' in /home/urwomco/public_html/homeguru/search-property.php on line 235
+[23-Apr-2013 06:33:04] PHP Parse error:  syntax error, unexpected T_ELSE in /home/urwomco/public_html/homeguru/property_list.php on line 95
+[23-Apr-2013 06:33:06] PHP Parse error:  syntax error, unexpected T_ELSE in /home/urwomco/public_html/homeguru/property_list.php on line 95
+[23-Apr-2013 06:33:09] PHP Parse error:  syntax error, unexpected T_ELSE in /home/urwomco/public_html/homeguru/property_list.php on line 95
+[23-Apr-2013 06:33:30] PHP Parse error:  syntax error, unexpected $end in /home/urwomco/public_html/homeguru/property_list.php on line 121
+[23-Apr-2013 06:33:32] PHP Parse error:  syntax error, unexpected $end in /home/urwomco/public_html/homeguru/property_list.php on line 121
+[23-Apr-2013 06:33:34] PHP Parse error:  syntax error, unexpected $end in /home/urwomco/public_html/homeguru/property_list.php on line 121
+[23-Apr-2013 06:33:35] PHP Parse error:  syntax error, unexpected $end in /home/urwomco/public_html/homeguru/property_list.php on line 121
+[23-Apr-2013 06:57:54] PHP Parse error:  syntax error, unexpected T_ECHO in /home/urwomco/public_html/homeguru/property_list.php on line 99
+[23-Apr-2013 06:58:58] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/urwomco/public_html/homeguru/property_list.php on line 100
+[23-Apr-2013 07:05:50] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/urwomco/public_html/homeguru/property_list.php on line 100
+[23-Apr-2013 07:06:44] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/urwomco/public_html/homeguru/property_list.php on line 99
+[23-Apr-2013 07:08:01] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/urwomco/public_html/homeguru/property_list.php on line 100
+[23-Apr-2013 07:08:04] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/urwomco/public_html/homeguru/property_list.php on line 100
+[24-Apr-2013 04:23:13] PHP Parse error:  syntax error, unexpected $end in /home/urwomco/public_html/homeguru/property-for-rent.php on line 69
+[25-Apr-2013 02:30:13] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home/urwomco/public_html/homeguru/test.php on line 4
+[25-Apr-2013 03:07:23] PHP Parse error:  syntax error, unexpected '.' in /home/urwomco/public_html/homeguru/property-value.php on line 67
+[25-Apr-2013 03:07:26] PHP Parse error:  syntax error, unexpected '.' in /home/urwomco/public_html/homeguru/property-value.php on line 67
+[25-Apr-2013 05:48:28] PHP Parse error:  syntax error, unexpected '}' in /home/urwomco/public_html/homeguru/getSoldRate.php on line 26
+[26-Apr-2013 03:48:09] PHP Warning:  sprintf() [<a href='function.sprintf'>function.sprintf</a>]: Argument number must be greater than zero in /home/urwomco/public_html/homeguru/details.php on line 56
+[26-Apr-2013 03:48:09] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Filename cannot be empty in /home/urwomco/public_html/homeguru/details.php on line 56
+[26-Apr-2013 03:49:00] PHP Warning:  sprintf() [<a href='function.sprintf'>function.sprintf</a>]: Too few arguments in /home/urwomco/public_html/homeguru/details.php on line 56
+[26-Apr-2013 03:49:00] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Filename cannot be empty in /home/urwomco/public_html/homeguru/details.php on line 56
+[26-Apr-2013 05:04:41] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/urwomco/public_html/homeguru/map5.php on line 48
+[26-Apr-2013 05:04:56] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/urwomco/public_html/homeguru/map5.php on line 48
+[26-Apr-2013 05:06:29] PHP Parse error:  syntax error, unexpected ';' in /home/urwomco/public_html/homeguru/map5.php on line 48
+[11-May-2013 07:34:48] PHP Parse error:  syntax error, unexpected '=' in /home/urwomco/public_html/homeguru/get_locations.php on line 3
+[14-May-2013 02:36:03] PHP Parse error:  syntax error, unexpected $end, expecting ',' or ';' in /home/urwomco/public_html/homeguru/search-property.php on line 235
+[20-May-2013 03:12:52] PHP Parse error:  syntax error, unexpected $end in /home/urwomco/public_html/homeguru/region.php on line 35
+[20-May-2013 03:13:00] PHP Parse error:  syntax error, unexpected $end in /home/urwomco/public_html/homeguru/region.php on line 35
+[20-May-2013 03:21:45] PHP Warning:  mysqli_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (11) in /home/urwomco/public_html/homeguru/includes/functions/database.php on line 8
+[20-May-2013 03:21:54] PHP Warning:  mysqli_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (11) in /home/urwomco/public_html/homeguru/includes/functions/database.php on line 8
+[20-May-2013 03:21:58] PHP Warning:  mysqli_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (11) in /home/urwomco/public_html/homeguru/includes/functions/database.php on line 8
+[29-May-2013 08:51:32] PHP Warning:  Invalid argument supplied for foreach() in /home/urwomco/public_html/homeguru/includes/functions/general.php on line 660
+[29-May-2013 08:51:32] PHP Warning:  implode() [<a href='function.implode'>function.implode</a>]: Invalid arguments passed in /home/urwomco/public_html/homeguru/includes/functions/general.php on line 665
+[29-May-2013 08:53:51] PHP Warning:  Invalid argument supplied for foreach() in /home/urwomco/public_html/homeguru/includes/functions/general.php on line 660
+[29-May-2013 08:53:51] PHP Warning:  implode() [<a href='function.implode'>function.implode</a>]: Invalid arguments passed in /home/urwomco/public_html/homeguru/includes/functions/general.php on line 665
+[29-May-2013 09:07:05] PHP Warning:  Invalid argument supplied for foreach() in /home/urwomco/public_html/homeguru/includes/functions/general.php on line 662
+[29-May-2013 09:07:05] PHP Warning:  implode() [<a href='function.implode'>function.implode</a>]: Invalid arguments passed in /home/urwomco/public_html/homeguru/includes/functions/general.php on line 667
+[29-May-2013 09:22:34] PHP Warning:  implode() [<a href='function.implode'>function.implode</a>]: Invalid arguments passed in /home/urwomco/public_html/homeguru/includes/functions/general.php on line 667
+[29-May-2013 09:35:24] PHP Warning:  implode() [<a href='function.implode'>function.implode</a>]: Invalid arguments passed in /home/urwomco/public_html/homeguru/includes/functions/general.php on line 668
+[04-Jun-2013 10:51:07 Asia/Calcutta] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: open(/tmp/sess_948ab8e71d5233d3deaedefaafe4f32c, O_RDWR) failed: No space left on device (28) in /home/dimtsorg/public_html/homeguru/includes/functions/sessions.php on line 26
+[04-Jun-2013 10:51:07 Asia/Calcutta] PHP Warning:  Unknown: open(/tmp/sess_948ab8e71d5233d3deaedefaafe4f32c, O_RDWR) failed: No space left on device (28) in Unknown on line 0
+[04-Jun-2013 10:51:07 Asia/Calcutta] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0
+[14-Jun-2013 05:34:23] PHP Warning:  mysqli_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'dimtsorg_neeraj'@'localhost' (using password: YES) in /home/urwomco/public_html/homeguru/includes/functions/database.php on line 8
+[02-Jul-2013 07:59:32] PHP Parse error:  syntax error, unexpected $end in /home/urwomco/public_html/homeguru/property_list.php on line 83
