@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteCond %{HTTP_HOST} homesguru.co.uk
+RewriteRule ^$ http://homesguru.co.uk/index.php [L,R=301]
